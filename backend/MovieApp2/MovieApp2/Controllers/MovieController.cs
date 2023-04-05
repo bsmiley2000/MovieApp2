@@ -15,9 +15,11 @@ namespace MovieApp2.Controllers
         }
         public IEnumerable<Movie> Get()
         {
-            var x = context.Movies.ToArray();
+            var x = context.Movies
+                .Where(x => x.Edited == "Yes")
+                .ToArray();
 
-            return context.Movies.ToArray();
+            return x;
         }
     }
 }

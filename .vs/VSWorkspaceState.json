@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\MovieApp2",
+    "\\backend\\MovieApp2\\MovieApp2",
+    "\\backend\\MovieApp2\\MovieApp2\\bin",
+    "\\backend\\MovieApp2\\MovieApp2\\Controllers",
+    "\\backend\\MovieApp2\\MovieApp2\\Data",
+    "\\backend\\MovieApp2\\MovieApp2\\Migrations",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\MovieApp2\\MovieApp2\\Controllers\\MovieController.cs",
+  "PreviewInSolutionExplorer": false
+}

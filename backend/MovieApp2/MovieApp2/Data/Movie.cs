@@ -8,7 +8,7 @@ namespace MovieApp2.Data
         public int MovieId { get; set; }
         public string? Category { get; set; }
         public string? Title { get; set; }
-        public float? Year { get; set; }
+        public int? Year { get; set; }
         public string? Director { get; set; }
         public string? Rating { get; set; }
         public string? Edited { get; set; }
